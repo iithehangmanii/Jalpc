@@ -1,7 +1,7 @@
 ---
 layout: external
 title:  "Applications of Linear Algebra in Image Filters [Part I]- Operations"
-date:   2017-01-31
+date:   2020-06-21
 desc: "Applications of Linear Algebra in Image Filters [Part I]- Operations"
 keywords: "Image processing, OpenCV"
 categories: [HTML]
