@@ -2,8 +2,8 @@
 
 # Website settings
 title: Hemanth Nag
-description: Hemanth's personal website 
-keywords: computer science, computer vision, deep learning
+description: Hemanth Nag's personal website and resume 
+keywords: computer science, computer vision, deep learning, bengaluru, engineering
 url: https://iithehangmanii.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
@@ -26,11 +26,11 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: B. Tech student   # Describe yourself.
+  desc: Final year B.Tech student from PES University, Bengaluru.  # Describe yourself.
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: hemanth
+#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+ # name: hemanth
 
 # analytics
 ## google analytics
