@@ -1,5 +1,5 @@
 ---
-layout: external
+layout: post
 title:  "Applications of Linear Algebra in Image Filters [Part I]- Operations"
 date:   2020-06-21
 desc: "Applications of Linear Algebra in Image Filters [Part I]- Operations"
