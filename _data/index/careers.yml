@@ -4,8 +4,8 @@
     detail: PES University 
     i18n: company_a
   desc:
-    detail: Major - Electronics & Communication Engg
-            Minor - Computer Science Engg
+    detail: |Major - Electronics & Communication Engg|
+            |Minor - Computer Science Engg|
     i18n: company_a_desc
   date:
     detail: Jul. 2022(expected)
