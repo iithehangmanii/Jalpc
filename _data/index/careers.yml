@@ -19,13 +19,13 @@
     detail: Deeksha PU College
     i18n: company_b
   desc:
-    detail:
+    detail: PCMB
     i18n: company_b_desc
   date:
     detail: Mar. 2018
     i18n: company_b_date
   job:
-    detail: Pre University-PCMB
+    detail: Pre University
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -33,12 +33,12 @@
     detail: School Vivekananda
     i18n: company_b
   desc:
-    detail:
+    detail: ICSE
     i18n: company_b_desc
   date:
     detail: Mar. 2016
     i18n: company_b_date
   job:
-    detail: High School(ICSE)
+    detail: High School
     i18n: company_b_job
   icon: fa-plus-square
