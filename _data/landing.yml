@@ -34,7 +34,7 @@
 - id: certificates
   i18n: nav.link
   name: Certificates
-  tpl: links.html
+  tpl: certi.html
   css: contact
 
 - id: links
