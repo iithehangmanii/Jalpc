@@ -7,7 +7,7 @@
     detail: Computer Vision Intern
     i18n: company_a_desc
   date:
-    detail: Since June, 2021
+    detail: Jun. 2021 - Present
     i18n: company_a_date
   job:
     detail: Internship
@@ -22,7 +22,7 @@
     detail: ¦Major - Electronics & Communication Engg ¦ Minor - Computer Science Engg¦
     i18n: company_a_desc
   date:
-    detail: Jul. 2022(expected)
+    detail: 2018 - 2022(expected)
     i18n: company_a_date
   job:
     detail: Undergraduate
@@ -37,7 +37,7 @@
     detail: PCMB
     i18n: company_b_desc
   date:
-    detail: Mar. 2018
+    detail: 2016 - 2018
     i18n: company_b_date
   job:
     detail: Pre University
@@ -51,7 +51,7 @@
     detail: ICSE
     i18n: company_b_desc
   date:
-    detail: Mar. 2016
+    detail: 2006 - 2016
     i18n: company_b_date
   job:
     detail: High School
