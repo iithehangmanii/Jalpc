@@ -2654,7 +2654,13 @@ body {
   .contact {
     background-image: url(../assets/img/landing/city.png);
     background-position: 50% 50%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
+    margin-top: 60px;
+  }
+  .certi {
+    background-image: url(../assets/img/landing/world_map.png);
+    background-position: 50% 50%;
+    background-repeat: repeat;
     margin-top: 60px;
   }
   section {
